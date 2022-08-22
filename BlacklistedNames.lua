@@ -1,7 +1,3 @@
 BLACKLISTED_NAMES = {
-    "Scooter", 
-    "Mikiz", 
-    "Sturmybear", 
-    "Breezex", 
-    "Muffinbear"
+    "Gostdragon", "Brandog", "Brandwar", "Doomform", "Doomfunkmt", "Doomfünk", "Itseperkele", "Missmeteor", "Majedm", "Exw", "Exm", "Seekout", "Jebevitar", "Ubicaamecog", "Traficpeople", "Moskri", "Ximble", "Pertabsing", "Guraman", "Bloodykael", "Dockyard", "Soulsnatcha", "Duduftwlol", "Hdi", "Humanbrain", "Humaann", "Humanpaly", "Humaan", "Vindmcflurry", "Mimsii", "Liyah", "Nyrikhemlös", "Bilipili", "Phadthai", "Danoób", "Halman", "Jookeerr", "Raayman", "Baratheus", "Bonerboii", "Priapizim", "Qdin", "Bombimbum", "Tauntslave", "Fantoomreza", "Paulalehma", "Ilkku", "Aposh", "Knivhuggaren", "Darknesswow", "Meele", "Daafi", "Igaani", "Mdontank", "Amir", "Sacrificer", "Zeldrisk", "Meliodask", "Taurock", "Teloo", "Muh'zala", "Winron", "Archone", "Healthyy", "Sreti", "Wizzý", "Annonymous", "BenG", "Neø", "Mamichula", "Mamichulaxo", "Akro", "Glaives", "Olen", "Weezy", "Boomblast", "Parapass", "Weezyrheezy", "Incarnated", "Itiswhatitis", "Nesk", "Skizz", "Beast", "Udontknowme", "Civi", "Warcrimesx", "Artorias", "Eternality", "Sandersorr", "Hymora", "Evilboyy", "Eviilboy", "Evillboy", "Evilboy", "Catrix", "Soshiyant", "Shikyy", "Heydarling", "Childmebro", "Avatarstate", "Hornybich", "Pínky", "Pìnky", "Outlow"
 }
