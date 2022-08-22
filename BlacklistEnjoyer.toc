@@ -1,0 +1,8 @@
+## Interface: 20504
+## Title: BlacklistEnjoyer
+## Notes: Scans your raid group for people on Gehennas Discord Blacklist
+## Author: Breeze
+## Version: 0.0.1
+
+BlacklistedNames.lua
+BlacklistEnjoyer.lua
